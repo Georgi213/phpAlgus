@@ -12,7 +12,7 @@
     <title>405</title>
 </head>
 <body>
-<a href="../test.php">tagasi...Ülesannete leht</a>
+<a href="../test.php">tagasi...Ülesannete lehte</a>
 <h1<Ülesanne 405-Korrutustabel 2 tsükliga</h1>
 <?php
    echo "<table>";
